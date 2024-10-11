@@ -41,7 +41,7 @@ What is a Pull/Merge Request?
  - Once approval has been given, merge away!
 */
 
-char arr[21][20] = {"Charles Le Clerc",
+char driver[21][20] = {"Charles Le Clerc",
                     "Carlos Sainz",
                     "Lewis Hamilton",
                     "George Russel",
