@@ -79,18 +79,20 @@ void best_driver() {
 // Shane Whelan
 // TODO who is the worst driver on the grid?
 void worst_driver(){
-
+  printf("lewis hamilton\n");
 }
 
 // Hari Mohan
 // TODO Who is the most overrated driver on the grid?
 void most_overrated(){
 
+
 }
 
 // Andrew Dowling
 // TODO Who is the most underrated driver on the grid?
 void most_underrated(){
+
 }
 
 // Micheal O'Cunnawhatever
