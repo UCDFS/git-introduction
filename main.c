@@ -73,7 +73,6 @@ char driver[21][20] = {"Charles Le Clerc",
 // ShengXin Chen
 // TODO Who is the best driver on the grid?
 void best_driver() {
-
 }
 
 // Shane Whelan
