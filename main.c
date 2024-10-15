@@ -73,33 +73,32 @@ char driver[21][20] = {"Charles Le Clerc",
 // ShengXin Chen
 // TODO Who is the best driver on the grid?
 void best_driver() {
-  printf("shane whelan\n");
+
 }
 
 // Shane Whelan
 // TODO who is the worst driver on the grid?
 void worst_driver(){
   printf("lewis hamilton\n");
-
 }
 
 // Hari Mohan
 // TODO Who is the most overrated driver on the grid?
 void most_overrated(){
-  driver[5];
+
 
 }
 
 // Andrew Dowling
 // TODO Who is the most underrated driver on the grid?
 void most_underrated(){
-  driver[4];
+
 }
 
 // Micheal O'Cunnawhatever
 // TODO who is the most consistent driver?
 void most_consistent_driver() {
-    driver[1];
+
 }
 
 void main() {
