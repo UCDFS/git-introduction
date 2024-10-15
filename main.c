@@ -41,7 +41,7 @@ What is a Pull/Merge Request?
  - Once approval has been given, merge away!
 */
 
-char arr[21][20] = {"Charles Le Clerc",
+char driver[21][20] = {"Charles Le Clerc",
                     "Carlos Sainz",
                     "Lewis Hamilton",
                     "George Russel",
@@ -70,29 +70,29 @@ char arr[21][20] = {"Charles Le Clerc",
 // You will be judged by your peers heavily for your answers in this exercise!
 // ----------
 
+// ShengXin Chen
 // TODO Who is the best driver on the grid?
 void best_driver() {
 }
 
+// Shane Whelan
 // TODO who is the worst driver on the grid?
 void worst_driver(){
 
 }
 
+// Hari Mohan
 // TODO Who is the most overrated driver on the grid?
 void most_overrated(){
 
 }
 
+// Andrew Dowling
 // TODO Who is the most underrated driver on the grid?
 void most_underrated(){
 }
 
-// TODO who is the most aggressive driver?
-void most_aggressive_driver() {
-
-}
-
+// Micheal O'Cunnawhatever
 // TODO who is the most consistent driver?
 void most_consistent_driver() {
 
@@ -103,6 +103,5 @@ void main() {
     worst_driver();
     most_overrated();
     most_underrated();
-    most_aggressive_driver();
     most_consistent_driver();
 }
