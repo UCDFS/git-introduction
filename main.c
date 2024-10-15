@@ -72,6 +72,7 @@ char driver[21][20] = {"Charles Le Clerc",
 
 // TODO Who is the best driver on the grid?
 void best_driver() {
+    printf("Charles Le Clerc");
 }
 
 // TODO who is the worst driver on the grid?
